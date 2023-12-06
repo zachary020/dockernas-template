@@ -1,7 +1,7 @@
 {
-  "name": "emqx",
+  "name": "Quartz",
   "category": [
-    "网络"
+    "博客"
   ],
-  "summary": "开源 MQTT 消息服务器"
+  "summary": "简易Markdown语言网站建成"
 }
